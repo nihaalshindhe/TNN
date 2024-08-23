@@ -1,0 +1,44 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #650110;
+    background-color: #fff;
+    width: 100%;
+}
+
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+}
+.team{
+    background-color: #212529;
+    color: white;
+    width: 100%;
+}
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.social-icons a {
+    font-size: 1.5rem;
+}
+.ghj{
+    margin-left: 120px;
+}
+.carousel-inner img {
+    height: 60vh;
+    object-fit: cover;
+}
